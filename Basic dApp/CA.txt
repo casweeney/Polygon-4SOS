@@ -1,0 +1,2 @@
+MoodDiary Mumbai Contract Address = 0xb7B6177F43aE4b60dD30bE5144A3C1454283D80D
+MoodDiary Goerli Contract Address = 0xb717439dBc69F032574BD2f443E59C018A2E99Ce
