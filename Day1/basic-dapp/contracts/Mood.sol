@@ -11,4 +11,8 @@ contract Mood {
     function getMood() external view returns(string memory) {
         return currentMood;
     }
+
+    function justAnother() external view returns(string memory) {
+        return currentMood;
+    }
 }
